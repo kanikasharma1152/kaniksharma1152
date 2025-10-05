@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💼 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kanikasharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kanikasharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kanikasharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kanika-sharma-5002b6315)
 [![Kaggle](https://img.shields.io/badge/Kaggle-kanikasharma-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/kanikasharma)
 [![Email](https://img.shields.io/badge/Email-kanikasdsi2475@svvv.edu.in-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanikasdsi2475@svvv.edu.in)
 
