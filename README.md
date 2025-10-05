@@ -28,3 +28,7 @@ I love exploring data and turning it into stories 📊
 
 ### ❤️ Interests
 Coding • Data Science • K-pop (especially Jimin & Jungkook 😄)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=kanikasharma&style=for-the-badge)
+
